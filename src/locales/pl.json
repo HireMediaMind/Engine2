@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "home": "Strona główna",
+        "services": "Usługi",
+        "tools": "Narzędzia",
+        "resources": "Zasoby",
+        "contact": "Kontakt",
+        "bookCall": "Zarezerwuj rozmowę",
+        "perfMarketing": "Marketing efektywnościowy",
+        "aiAutomation": "Automatyzacja AI",
+        "leadFinder": "Wyszukiwarka Leadów",
+        "growthSim": "Symulator Wzrostu",
+        "aiPlayground": "Plac zabaw AI",
+        "caseStudies": "Studia przypadków",
+        "blog": "Blog"
+    },
+    "hero": {
+        "badge": "Silnik wzrostu napędzany AI",
+        "title": "Skaluj swój biznes dzięki AI i marketingowi",
+        "subtitle": "Projektujemy inteligentne systemy wzrostu, łączące marketing efektywnościowy, automatyzację AI i przejrzystość w czasie rzeczywistym.",
+        "cta_primary": "Darmowa konsultacja",
+        "cta_secondary": "Wypróbuj AI"
+    },
+    "footer": {
+        "rights": "Wszelkie prawa zastrzeżone.",
+        "legal": "HIREMEDIAMIND AUTOMATION LLP",
+        "privacy": "Polityka prywatności",
+        "terms": "Warunki korzystania"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "home": "Início",
+        "services": "Serviços",
+        "tools": "Ferramentas",
+        "resources": "Recursos",
+        "contact": "Contato",
+        "bookCall": "Agendar Chamada Grátis",
+        "perfMarketing": "Marketing de Performance",
+        "aiAutomation": "Automação com IA",
+        "leadFinder": "Buscador de Leads",
+        "growthSim": "Simulador de Crescimento",
+        "aiPlayground": "Playground IA",
+        "caseStudies": "Estudos de Caso",
+        "blog": "Blog"
+    },
+    "hero": {
+        "badge": "Motor de Crescimento com IA",
+        "title": "Escale seu Negócio com IA e Marketing de Performance",
+        "subtitle": "Projetamos sistemas de crescimento inteligentes que combinam marketing de performance, automação com IA e transparência em tempo real.",
+        "cta_primary": "Agendar Estratégia Gratuita",
+        "cta_secondary": "Experimentar Playground IA"
+    },
+    "footer": {
+        "rights": "Todos os direitos reservados.",
+        "legal": "HIREMEDIAMIND AUTOMATION LLP",
+        "privacy": "Política de Privacidade",
+        "terms": "Termos de Serviço"
+    }
+}

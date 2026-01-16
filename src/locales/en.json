@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "home": "Home 🏠",
+        "services": "Services",
+        "tools": "Tools",
+        "resources": "Resources",
+        "contact": "Contact",
+        "bookCall": "Book Free Call 🚀",
+        "perfMarketing": "Performance Marketing",
+        "aiAutomation": "AI Automation",
+        "leadFinder": "Lead Finder",
+        "growthSim": "Growth Simulator",
+        "aiPlayground": "AI Playground",
+        "caseStudies": "Case Studies",
+        "blog": "Blog"
+    },
+    "hero": {
+        "badge": "AI-Powered Growth Engine",
+        "title": "Scale Your Business With AI & Performance Marketing",
+        "subtitle": "We design intelligent growth systems that combine performance marketing, AI automation, and real-time transparency.",
+        "cta_primary": "Book Free Strategy Call",
+        "cta_secondary": "Try AI Playground"
+    },
+    "footer": {
+        "rights": "All rights reserved.",
+        "legal": "HIREMEDIAMIND AUTOMATION LLP",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    }
+}

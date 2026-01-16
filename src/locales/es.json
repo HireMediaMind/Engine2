@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "services": "Servicios",
+        "tools": "Herramientas",
+        "resources": "Recursos",
+        "contact": "Contacto",
+        "bookCall": "Reservar Llamada",
+        "perfMarketing": "Marketing de Resultados",
+        "aiAutomation": "Automatización IA",
+        "leadFinder": "Buscador de Leads",
+        "growthSim": "Simulador de Crecimiento",
+        "aiPlayground": "Patio de Juegos IA",
+        "caseStudies": "Casos de Estudio",
+        "blog": "Blog"
+    },
+    "hero": {
+        "badge": "Motor de Crecimiento Impulsado por IA",
+        "title": "Escale su Negocio con IA y Marketing de Resultados",
+        "subtitle": "Diseñamos sistemas de crecimiento inteligente que combinan marketing de resultados, automatización IA y transparencia en tiempo real.",
+        "cta_primary": "Reserva tu Estrategia Gratis",
+        "cta_secondary": "Prueba el Patio de IA"
+    },
+    "footer": {
+        "rights": "Todos los derechos reservados.",
+        "legal": "HIREMEDIAMIND AUTOMATION LLP",
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Servicio"
+    }
+}

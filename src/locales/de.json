@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "services": "Dienstleistungen",
+        "tools": "Werkzeuge",
+        "resources": "Ressourcen",
+        "contact": "Kontakt",
+        "bookCall": "Kostenloses Gespräch buchen",
+        "perfMarketing": "Performance-Marketing",
+        "aiAutomation": "KI-Automatisierung",
+        "leadFinder": "Lead-Finder",
+        "growthSim": "Wachstumssimulator",
+        "aiPlayground": "KI-Spielplatz",
+        "caseStudies": "Fallstudien",
+        "blog": "Blog"
+    },
+    "hero": {
+        "badge": "KI-gestützter Wachstumsmotor",
+        "title": "Skalieren Sie Ihr Geschäft mit KI & Performance-Marketing",
+        "subtitle": "Wir entwerfen intelligente Wachstumssysteme, die Performance-Marketing, KI-Automatisierung und Echtzeit-Transparenz kombinieren.",
+        "cta_primary": "Kostenloses Strategiegespräch buchen",
+        "cta_secondary": "KI-Spielplatz ausprobieren"
+    },
+    "footer": {
+        "rights": "Alle Rechte vorbehalten.",
+        "legal": "HIREMEDIAMIND AUTOMATION LLP",
+        "privacy": "Datenschutzrichtlinie",
+        "terms": "Nutzungsbedingungen"
+    }
+}
